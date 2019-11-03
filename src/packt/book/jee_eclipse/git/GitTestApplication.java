@@ -7,6 +7,7 @@ public class GitTestApplication {
 
 		System.out.println("Hello Git !");
 		System.out.println("New change has created");
+		System.out.println("bug 0001");
 	}
 
 }
